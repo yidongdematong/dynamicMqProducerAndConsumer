@@ -1,0 +1,2 @@
+# dynamicMqProducerAndConsumer
+rabbitmq动态创建队列与监听
